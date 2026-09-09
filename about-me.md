@@ -1,30 +1,3 @@
-Pershendetje
-Emri: Artik
-Mbiemri: Osmani
-Ky eshte projekti im i pare ne github
-....
-Pershendetje
-Emri: Artik
-Mbiemri: Osmani
-Ky eshte projekti im i pare ne github
-....
-Pershendetje
-Emri: Artik
-Mbiemri: Osmani
-Ky eshte projekti im i pare ne github
-....
-Pershendetje
-Emri: Artik
-Mbiemri: Osmani
-Ky eshte projekti im i pare ne github
-....
-Pershendetje
-Emri: Artik
-Mbiemri: Osmani
-Ky eshte projekti im i pare ne github
-....
-Pershendetje
-Emri: Artik
-Mbiemri: Osmani
-Ky eshte projekti im i pare ne github
-....
+Pull request 1
+Pull request 1
+Pull request 1
